@@ -43,11 +43,16 @@ color: aqua;
 }
 
 @keyframes un_efecto {
-    0%{ width: 100px; }
-    25%{ width: 300px; }
-    50%{ width: 400px;}
-    75%{ width: 600px;}
-    100%{ width: 1000px;}
+    0%{ width: 100px; 
+        height: 200px;}
+        25%{ width: 300px;
+        height: 400px; }
+        50%{ width: 400px;
+        height: 500px;}
+        75%{ width: 600px;
+        height: 700px;}
+        100%{ width: 800px;
+        height: 900px;}
  }
 
 
@@ -64,11 +69,16 @@ color: aqua;
 }
 
 @keyframes un_efecto {
-    0%{ width: 100px; }
-    25%{ width: 300px; }
-    50%{ width: 400px;}
-    75%{ width: 600px;}
-    100%{ width: 1000px;}
+    0%{ width: 100px; 
+    height: 200px;}
+    25%{ width: 300px;
+    height: 400px; }
+    50%{ width: 400px;
+    height: 500px;}
+    75%{ width: 600px;
+    height: 700px;}
+    100%{ width: 800px;
+    height: 900px;}
  }
 
 
