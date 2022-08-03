@@ -1,0 +1,172 @@
+.inicio{
+    font-size: 50px;
+    padding-left: 600px;
+    color: brown;
+    background-image: url("IMAGENES/FAVICON.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.listas{
+    display: inline;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 5px;
+ }
+
+body h3{
+padding-left: 560px;
+font-style: unset;
+font-size: 60px;
+color: aqua;
+}
+
+.alarma{
+    border-radius: 10px;
+    height: 200px;
+    padding-top: 200px;
+    margin: 10px;
+}
+
+.camaras{
+    border-radius: 10px;
+    height: 200px;
+    padding-top: 200px;
+    margin: 10px;
+}
+
+section{
+    height: 1000px;
+    color: blue;
+    background-color: black;
+    font-size: 100px;
+    border: 5px solid pink;
+    animation-name: un_efecto;
+   animation-iteration-count: infinite;
+   animation-timing-function: ease-in;
+   animation-duration: 2s;
+   animation-delay: 10s;
+}
+
+.redes{
+    height: 100px;
+    border-radius: 10px;
+    padding-top: 600px;
+    padding-left: 1200px;
+    
+}
+
+.texto{
+    width: 120px;
+    height: 120px;
+    border: 1px solid black;
+    font-size: 30px;
+    font-family: arial;
+    overflow: scroll
+}
+
+.contacto {
+    font-size: 50px;
+    color: black;
+    font-style: oblique;
+    text-align: center;
+}
+
+fieldset{
+    font-family: cursive;
+    text-align: justify;
+    background-color: burlywood;
+}
+
+.fcontac {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.historia {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+.imgagenh {
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.lorem {
+    font-size: 60px;
+    font-style: italic;
+    text-align: justify;
+}
+
+.fhist {
+    text-align: right;
+}
+
+.instal{
+    text-align: center;
+    font-size: 50px;
+}
+
+.imgin{
+    margin: 50px;
+    border-radius: 50px;
+    border-style: dashed; color: red;
+}
+
+.fima{
+    text-align: right;
+}
+
+.paquetes{
+    text-align: center;
+    font-size: 50px;
+}
+
+th{
+    font-style: italic;
+    font-size: 30px;
+}
+
+table{
+    background-color: aquamarine;
+    margin-top: 100px;
+    margin-left: 330px;
+    margin-bottom: 30px;
+    text-align: center; 
+}
+
+.fpaq{
+    text-align: right;
+}
+
+.bpaq{
+    background-color: brown;
+}
+
+.bhis{
+    background-color: aquamarine;
+}
+
+.bcon{
+    background-color: chartreuse;
+}
+
+.bima{
+    background-color: blueviolet;
+}
+
+.bind{
+    background-color: blue;
+}
